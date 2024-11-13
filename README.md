@@ -2,4 +2,4 @@
 - 👀 Estou interessado em aprender.
 - 🌱 Estou atualmente aprendendo a linguagem C++.
 - 📫 Meu e-mail:joaoemanuelsantos2019@gmail.com
-- ⚡ Primeiro período da faculdade de Sistemas de Informação.
+- ⚡ Segundo período da faculdade de Sistemas de Informação.
